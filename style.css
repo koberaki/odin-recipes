@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(151, 17, 17);
+    color: white;
+}
+
+h1{
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 48px;
+}
+div{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial,  sans-serif;
+}
