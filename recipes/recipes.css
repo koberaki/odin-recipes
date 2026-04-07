@@ -1,0 +1,41 @@
+body{
+    background-color: #F8CB9C;
+    color: #fff;
+    font-family: Arial,  sans-serif;
+}
+h1{
+    font-size: 48px;
+}
+
+h3{
+    font-size: 32px;
+}
+h1,h3{
+    color: #F8CB9C;
+}
+
+h3, p{
+    padding-left: 40px;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(151, 17, 17);
+    text-align: center;
+}
+
+ul,ol, h3, p{
+    text-align: left;
+}
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    background-color: #fff;
+    color: black;
+    display: inline-block;
+    padding: 10px 20px;
+}
